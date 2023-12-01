@@ -1,0 +1,72 @@
+{
+    "properties": [
+      {
+        "id": "1",
+        "name": "Stunning Beachfront Villa",
+        "type": "Villa",
+        "price": "$350/night",
+        "location": {
+          "city": "Malibu",
+          "country": "United States",
+          "address": "123 Ocean Drive"
+        },
+        "main_image": "https://i.pinimg.com/564x/c6/aa/96/c6aa966608315d9c3c59bf3212bec6d7.jpg",
+        "images": [
+          "https://i.pinimg.com/564x/c6/aa/96/c6aa966608315d9c3c59bf3212bec6d7.jpg",
+          "https://i.pinimg.com/564x/c6/aa/96/c6aa966608315d9c3c59bf3212bec6d7.jpg",
+          "https://i.pinimg.com/564x/c6/aa/96/c6aa966608315d9c3c59bf3212bec6d7.jpg"
+        ],
+        "amenities": [
+          "Private Beach Access",
+          "Infinity Pool",
+          "Jacuzzi"
+        ],
+        "ratings": {
+          "score": 4.9,
+          "total_reviews": 102
+        },
+        "host": {
+          "id": "host1",
+          "first_name": "Emily",
+          "last_name": "Johnson",
+          "profile_picture": "https://url-of-avatar.com/host1.jpg",
+          "description": "Welcome to our amazing beachfront villa..."
+        }
+      },
+      {
+        "id": "2",
+        "name": "Cozy Mountain Cabin",
+        "type": "Cabin",
+        "price": "$150/night",
+        "location": {
+          "city": "Aspen",
+          "country": "United States",
+          "address": "789 Mountain Road"
+        },
+        "main_image": "https://image-url.com/mountain-cabin.jpg",
+        "images": [
+          "https://i.pinimg.com/564x/c6/aa/96/c6aa966608315d9c3c59bf3212bec6d7.jpg",
+          "https://image-url.com/mountain-cabin-2.jpg",
+          "https://image-url.com/mountain-cabin-3.jpg"
+        ],
+        "amenities": [
+          "Fireplace",
+          "Scenic Views",
+          "Hiking Trails"
+        ],
+        "ratings": {
+          "score": 4.7,
+          "total_reviews": 85
+        },
+        "host": {
+          "id": "host2",
+          "first_name": "David",
+          "last_name": "Miller",
+          "profile_picture": "https://url-of-avatar.com/host2.jpg",
+          "description": "Escape to our cozy mountain cabin..."
+        }
+      }
+     
+    ]
+  }
+  
